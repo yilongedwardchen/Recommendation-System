@@ -1,4 +1,4 @@
-# DSGA1004 - Big Data Final Project: Building A Collaborative-Filter Based Recommender System
+# A Collaborative-Filter Based Recommender System
 ### Overview
 The final project for DSGA1004 - Big Data involves building and evaluating a collaborative-filter based recommender system. The project involves working with a large-scale real-world dataset and applying the tools and techniques learned in the course. The work for this project was carried out between April and May 2023.
 
